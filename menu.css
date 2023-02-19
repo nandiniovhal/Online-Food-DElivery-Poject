@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+
+#menulist{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+}
+.form-shape input, .form-shape select, .form-shape textarea{
+   width: 92%;
+   padding: 0.5rem;
+}
+
+::placeholder{                  
+    color:gray;
+}
+
+.column{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+*{
+    box-sizing: border-box;
+}
+.column2{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row2::after{
+    content: "";
+    display: table;
+    clear: both;
+    text-align: left;
+}
+*{
+    box-sizing: border-box;
+}
+.column3{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row3::after{
+    content: "";
+    display: table;
+    clear: both;
+    text-align: left;
+}
+*{
+    box-sizing: border-box;
+}
+.column4{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row4::after{
+    content: "";
+    display: table;
+    clear: both;
+    text-align: left;
+}
+
+*{
+    box-sizing: border-box;
+}
+.column5{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row5::after{
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+
+*{
+    box-sizing: border-box;
+}
+.column6{
+    float: left;
+    width: 12%;
+    padding: 5px;
+}
+
+.row6::after{
+    content: "";
+    display: table;
+    clear: both;
+    text-align: left;
+}
