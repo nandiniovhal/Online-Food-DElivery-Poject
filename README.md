@@ -5,8 +5,8 @@ Online food delivery is a service that provides a digital platform for customers
 every online food ordering system built by us is very simple to use regularly. The way online food delivery works is a customer can go to a special website created for the restaurant that is integrated with a payment gateway provider and delivery aggregator. 
 
 # Technologies Used -
-HTML
-CSS
+* HTML
+* CSS
 
 # Home Screen -
 
